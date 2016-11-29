@@ -1,5 +1,5 @@
 
-Description of the variables of the file tidy_data.txt
+# Description of the variables of the file tidy_data.txt
 
 This data was transformed from the dataset "Human Activity Recognition Using Smartphones Data Set" from the reference "Davide Anguita, 
 Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using 
